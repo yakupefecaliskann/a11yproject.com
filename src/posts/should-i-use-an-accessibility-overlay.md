@@ -142,6 +142,9 @@ further_reading:
   - title: "Should Accessibility Overlays and Widgets Be Viewed As 'Separate but Equal'​ Solutions?"
     url: https://www.linkedin.com/pulse/should-accessibility-overlays-widgets-viewed-separate-springer/
     source: Timothy Springer
+  - title: "Are accessibility overlays good or bad?"
+    url: https://www.accessibilityeasy.com/blog/are-accessibility-overlays-good-or-bad
+    source: Accessibility Made Easy
   - title: "The Dangerous Path of the Accessibility Overlay"
     url: https://www.joedolson.com/2021/03/the-dangerous-path-of-the-accessibility-overlay/
     source: Joe Dolson
