@@ -75,9 +75,9 @@
 		{
 			"name": "Wayne Elgin",
 			"first": "Wayne",
-			"website": "https://twitter.com/esjay",
+			"website": "https://bsky.app/profile/wayne.elgin.dev",
 			"photo": "{{ '/img/team/wayne-elgin.jpg' | url }}",
-			"biography": "Wayne is a jack-of-many-trades developer, especially UX web technologies. He's been making websites since 1997. He values clean, semantic markup paired with creative, accessible styles. He likes Marx Brothers movies and biking with his kids."
+			"biography": "Wayne is a jack-of-many-trades developer, especially with UX web technologies. He's been making websites since 1997. He values clean, semantic markup paired with creative, accessible styles. He likes good, old movies and hanging with his kids."
 		},
 		{
 			"name": "…and maybe you!",
