@@ -1217,6 +1217,12 @@
 			"url": "https://www.levelaccess.com/solutions/software/amp/"
 		},
 		{
+			"title": "Annex markup scan",
+			"description": "Paste a page's HTML and see which WCAG 2.2 issues its markup gives away. Runs entirely in the browser with no account, and names the criteria it cannot check automatically instead of scoring them as passed.",
+			"additional": "Annex",
+			"url": "https://yakupefecaliskann.github.io/annex-site/tools/scan/"
+		},
+		{
 			"title": "ARC",
 			"description": "Automated testing that looks for machine-detectable accessibility defects within digital content.",
 			"additional": "TPGi",
