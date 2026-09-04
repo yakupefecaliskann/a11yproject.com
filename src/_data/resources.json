@@ -1218,7 +1218,7 @@
 		},
 		{
 			"title": "Annex markup scan",
-			"description": "Paste a page's HTML and see which WCAG 2.2 issues its markup gives away. Runs entirely in the browser with no account, and names the criteria it cannot check automatically instead of scoring them as passed.",
+			"description": "Paste a page's HTML and see which WCAG 2.2 issues its markup gives away. The rules run in the browser and pasting sends nothing anywhere; an optional mode scans by address, which sends only the address to a proxy that fetches the page. Names the criteria it cannot check automatically instead of scoring them as passed.",
 			"additional": "Annex",
 			"url": "https://yakupefecaliskann.github.io/annex-site/tools/scan/"
 		},
